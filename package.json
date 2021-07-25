@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andyFang94/package.git"
+    "url": "git@github.com:andyFang94/package.git"
   },
   "keywords": [
     "andyfang"
